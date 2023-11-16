@@ -1,0 +1,214 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "aaryan_pinto",
+      "email": "aaryan@example.com",
+      "phone": "123-456-7890",
+      "creationDate": "2023-01-01"
+    },
+    {
+      "id": 2,
+      "username": "amit_kumar",
+      "email": "amit@example.com",
+      "phone": "987-654-3210",
+      "creationDate": "2023-01-02"
+    },
+    {
+      "id": 3,
+      "username": "priya_sharma",
+      "email": "priya@example.com",
+      "phone": "456-789-0123",
+      "creationDate": "2023-01-03"
+    },
+    {
+      "id": 4,
+      "username": "aditya_patel",
+      "email": "aditya@example.com",
+      "phone": "789-012-3456",
+      "creationDate": "2023-01-04"
+    },
+    {
+      "id": 5,
+      "username": "neha_singh",
+      "email": "neha@example.com",
+      "phone": "012-345-6789",
+      "creationDate": "2023-01-05"
+    },
+    {
+      "id": 6,
+      "username": "arjun_gupta",
+      "email": "arjun@example.com",
+      "phone": "345-678-9012",
+      "creationDate": "2023-01-06"
+    },
+    {
+      "id": 7,
+      "username": "maya_shah",
+      "email": "maya@example.com",
+      "phone": "567-890-1234",
+      "creationDate": "2023-01-07"
+    },
+    {
+      "id": 8,
+      "username": "vikram_mishra",
+      "email": "vikram@example.com",
+      "phone": "890-123-4567",
+      "creationDate": "2023-01-08"
+    },
+    {
+      "id": 9,
+      "username": "pooja_verma",
+      "email": "pooja@example.com",
+      "phone": "234-567-8901",
+      "creationDate": "2023-01-09"
+    },
+    {
+      "id": 10,
+      "username": "ravi_yadav",
+      "email": "ravi@example.com",
+      "phone": "456-789-0123",
+      "creationDate": "2023-01-10"
+    },
+    {
+      "id": 11,
+      "username": "anjali_joshi",
+      "email": "anjali@example.com",
+      "phone": "678-901-2345",
+      "creationDate": "2023-01-11"
+    },
+    {
+      "id": 12,
+      "username": "sachin_reddy",
+      "email": "sachin@example.com",
+      "phone": "901-234-5678",
+      "creationDate": "2023-01-12"
+    },
+    {
+      "id": 13,
+      "username": "deepika_malhotra",
+      "email": "deepika@example.com",
+      "phone": "123-234-5678",
+      "creationDate": "2023-01-13"
+    },
+    {
+      "id": 14,
+      "username": "rohit_singhania",
+      "email": "rohit@example.com",
+      "phone": "345-456-7890",
+      "creationDate": "2023-01-14"
+    },
+    {
+      "id": 15,
+      "username": "manisha_agrawal",
+      "email": "manisha@example.com",
+      "phone": "567-678-9012",
+      "creationDate": "2023-01-15"
+    },
+    {
+      "id": 16,
+      "username": "akash_mehra",
+      "email": "akash@example.com",
+      "phone": "789-890-1234",
+      "creationDate": "2023-01-16"
+    },
+    {
+      "id": 17,
+      "username": "aishwarya_shetty",
+      "email": "aishwarya@example.com",
+      "phone": "234-567-8901",
+      "creationDate": "2023-01-17"
+    },
+    {
+      "id": 18,
+      "username": "arun_gandhi",
+      "email": "arun@example.com",
+      "phone": "456-789-0123",
+      "creationDate": "2023-01-18"
+    },
+    {
+      "id": 19,
+      "username": "divya_rajan",
+      "email": "divya@example.com",
+      "phone": "678-901-2345",
+      "creationDate": "2023-01-19"
+    },
+    {
+      "id": 20,
+      "username": "rahul_mukherjee",
+      "email": "rahul@example.com",
+      "phone": "901-234-5678",
+      "creationDate": "2023-01-20"
+    },
+    {
+      "id": 21,
+      "username": "sonal_kapoor",
+      "email": "sonal@example.com",
+      "phone": "234-567-8901",
+      "creationDate": "2023-01-21"
+    },
+    {
+      "id": 22,
+      "username": "vivek_jain",
+      "email": "vivek@example.com",
+      "phone": "567-678-9012",
+      "creationDate": "2023-01-22"
+    },
+    {
+      "id": 23,
+      "username": "nandini_nayar",
+      "email": "nandini@example.com",
+      "phone": "789-890-1234",
+      "creationDate": "2023-01-23"
+    },
+    {
+      "id": 24,
+      "username": "rajeev_mehta",
+      "email": "rajeev@example.com",
+      "phone": "234-567-8901",
+      "creationDate": "2023-01-24"
+    },
+    {
+      "id": 25,
+      "username": "aradhya_singh",
+      "email": "aradhya@example.com",
+      "phone": "456-789-0123",
+      "creationDate": "2023-01-25"
+    },
+    {
+      "id": 26,
+      "username": "tanvi_sharma",
+      "email": "tanvi@example.com",
+      "phone": "678-901-2345",
+      "creationDate": "2023-01-26"
+    },
+    {
+      "id": 27,
+      "username": "abhinav_gupta",
+      "email": "abhinav@example.com",
+      "phone": "901-234-5678",
+      "creationDate": "2023-01-27"
+    },
+    {
+      "id": 28,
+      "username": "kavya_reddy",
+      "email": "kavya@example.com",
+      "phone": "234-567-8901",
+      "creationDate": "2023-01-28"
+    },
+    {
+      "id": 29,
+      "username": "rishi_shah",
+      "email": "rishi@example.com",
+      "phone": "567-678-9012",
+      "creationDate": "2023-01-29"
+    },
+    {
+      "id": 30,
+      "username": "anya_jain",
+      "email": "anya@example.com",
+      "phone": "789-890-1234",
+      "creationDate": "2023-01-30"
+    }
+  ]
+}
