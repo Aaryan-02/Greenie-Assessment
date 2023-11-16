@@ -1,6 +1,6 @@
 # Greenie-Assessment
 
-The application has been deployed on the Vercel platform. You can directly access the website by clicking on the link provided in the 'About' section. Alternatively, you have the option to clone the application and follow the instructions outlined below.
+The application has been deployed on the Netlify platform. You can directly access the website by clicking on the link provided in the 'About' section. Alternatively, you have the option to clone the application and follow the instructions outlined below.
 
 ### `git clone github-repo-link`
 
