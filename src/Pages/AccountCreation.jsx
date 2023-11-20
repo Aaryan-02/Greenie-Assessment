@@ -29,7 +29,7 @@ const AccountCreation = () => {
     try {
       if (validateInputs()) {
         alert('Creating account...');
-        await new Promise(resolve => setTimeout(resolve, 2000)); // Simulate a 2-second delay
+        await new Promise(resolve => setTimeout(resolve, 2000));
         alert('Account created successfully!');
       }
     } catch (error) {
